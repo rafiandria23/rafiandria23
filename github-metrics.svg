@@ -2260,7 +2260,7 @@ enhance(web/app/page+page-client): enhance dynamic imports</div>
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Influencer
-                                    <span class="gh">ranked 542k out of 120m users</span>
+                                    <span class="gh">ranked 521k out of 120m users</span>
                                 </div>
                                 <div class="text">Followed by 23 users</div>
                             </div>
@@ -2341,7 +2341,7 @@ enhance(web/app/page+page-client): enhance dynamic imports</div>
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 3.26m out of 65.3m repositories</span>
+                                    <span class="gh">ranked 3.17m out of 71m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 2 times</div>
                             </div>
@@ -2412,7 +2412,7 @@ enhance(web/app/page+page-client): enhance dynamic imports</div>
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 2.02m out of 65.3m repositories</span>
+                                    <span class="gh">ranked 2.07m out of 71m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 8 stars</div>
                             </div>
