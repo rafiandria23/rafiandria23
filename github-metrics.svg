@@ -366,7 +366,7 @@
                 <div class="row">
                     <ul class="facts">
                         <li>Uses spaces for indentation</li>
-                        <li>Has approximately 57.7 characters per line of code written</li>
+                        <li>Has approximately 57.2 characters per line of code written</li>
                         <li>Mostly pushes code around 10:00</li>
                         <li>Mostly active on Tuesday</li>
                     </ul>
@@ -2344,7 +2344,7 @@ Update dependency @types/node to v20.11.20</div>
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 3.43m out of 104m repositories</span>
+                                    <span class="gh">ranked 3.43m out of 97.8m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 2 times</div>
                             </div>
@@ -2415,7 +2415,7 @@ Update dependency @types/node to v20.11.20</div>
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 2.20m out of 104m repositories</span>
+                                    <span class="gh">ranked 2.20m out of 97.8m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 8 stars</div>
                             </div>
