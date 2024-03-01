@@ -1969,7 +1969,7 @@ chore(deps): update dependency @types/react to v18.2.61</div>
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="69.13 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="69.44 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g stroke-width="2" fill="none" fill-rule="evenodd">
@@ -1991,7 +1991,7 @@ chore(deps): update dependency @types/react to v18.2.61</div>
                                     <span class="prefix">Super</span>
                                     deployer
                                 </div>
-                                <div class="text">Repositories have been deployed 723 times</div>
+                                <div class="text">Repositories have been deployed 724 times</div>
                             </div>
                         </div>
                         <div class="achievement a largeable-width-half">
@@ -2260,7 +2260,7 @@ chore(deps): update dependency @types/react to v18.2.61</div>
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Influencer
-                                    <span class="gh">ranked 533k out of 131m users</span>
+                                    <span class="gh">ranked 534k out of 131m users</span>
                                 </div>
                                 <div class="text">Followed by 25 users</div>
                             </div>
@@ -2341,7 +2341,7 @@ chore(deps): update dependency @types/react to v18.2.61</div>
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 3.44m out of 96.6m repositories</span>
+                                    <span class="gh">ranked 3.44m out of 82.7m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 2 times</div>
                             </div>
@@ -2412,7 +2412,7 @@ chore(deps): update dependency @types/react to v18.2.61</div>
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 2.21m out of 96.6m repositories</span>
+                                    <span class="gh">ranked 2.21m out of 82.7m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 8 stars</div>
                             </div>
