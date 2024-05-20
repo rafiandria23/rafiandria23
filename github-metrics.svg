@@ -19,7 +19,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            6282 Commits
+                            6272 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -31,7 +31,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M7.177 3.073L9.573.677A.25.25 0 0110 .854v4.792a.25.25 0 01-.427.177L7.177 3.427a.25.25 0 010-.354zM3.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122v5.256a2.251 2.251 0 11-1.5 0V5.372A2.25 2.25 0 011.5 3.25zM11 2.5h-1V4h1a1 1 0 011 1v5.628a2.251 2.251 0 101.5 0V5A2.5 2.5 0 0011 2.5zm1 10.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0zM3.75 12a.75.75 0 100 1.5.75.75 0 000-1.5z"/>
                             </svg>
-                            281 Pull requests opened
+                            282 Pull requests opened
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -153,7 +153,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M0 1.75A.75.75 0 01.75 1h4.253c1.227 0 2.317.59 3 1.501A3.744 3.744 0 0111.006 1h4.245a.75.75 0 01.75.75v10.5a.75.75 0 01-.75.75h-4.507a2.25 2.25 0 00-1.591.659l-.622.621a.75.75 0 01-1.06 0l-.622-.621A2.25 2.25 0 005.258 13H.75a.75.75 0 01-.75-.75V1.75zm8.755 3a2.25 2.25 0 012.25-2.25H14.5v9h-3.757c-.71 0-1.4.201-1.992.572l.004-7.322zm-1.504 7.324l.004-5.073-.002-2.253A2.25 2.25 0 005.003 2.5H1.5v9h3.757a3.75 3.75 0 011.994.574z"/>
                                     </svg>
-                                    1.20k views in last two weeks
+                                    1.21k views in last two weeks
                                 </div>
                             </section>
                         </div>
@@ -223,14 +223,14 @@
                                 <rect x="0" y="0" width="220" height="8" fill="white" rx="5"/>
                             </mask>
                             <rect mask="url(#pr-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                            <rect mask="url(#issues-bar)" x="0" y="0" width="0.08305020762551907" height="8" fill="#238636"/>
-                            <rect mask="url(#issues-bar)" x="0.08305020762551907" y="0" width="0" height="8" fill="#56d364"/>
-                            <rect mask="url(#issues-bar)" x="0.08305020762551907" y="0" width="0" height="8" fill="#8B949E"/>
-                            <rect mask="url(#issues-bar)" x="0.08305020762551907" y="0" width="0" height="8" fill="#c9d1d9"/>
-                            <rect mask="url(#issues-bar)" x="0.08305020762551907" y="0" width="3.3220083050207627" height="8" fill="#da3633"/>
-                            <rect mask="url(#issues-bar)" x="3.405058512646282" y="0" width="0" height="8" fill="#ff7b72"/>
-                            <rect mask="url(#issues-bar)" x="3.405058512646282" y="0" width="216.59494148735374" height="8" fill="#8957e5"/>
-                            <rect mask="url(#issues-bar)" x="220.00000000000003" y="0" width="0" height="8" fill="#d2a8ff"/>
+                            <rect mask="url(#issues-bar)" x="0" y="0" width="0.08295625942684766" height="8" fill="#238636"/>
+                            <rect mask="url(#issues-bar)" x="0.08295625942684766" y="0" width="0" height="8" fill="#56d364"/>
+                            <rect mask="url(#issues-bar)" x="0.08295625942684766" y="0" width="0" height="8" fill="#8B949E"/>
+                            <rect mask="url(#issues-bar)" x="0.08295625942684766" y="0" width="0" height="8" fill="#c9d1d9"/>
+                            <rect mask="url(#issues-bar)" x="0.08295625942684766" y="0" width="3.3182503770739067" height="8" fill="#da3633"/>
+                            <rect mask="url(#issues-bar)" x="3.4012066365007545" y="0" width="0" height="8" fill="#ff7b72"/>
+                            <rect mask="url(#issues-bar)" x="3.4012066365007545" y="0" width="216.59879336349925" height="8" fill="#8957e5"/>
+                            <rect mask="url(#issues-bar)" x="220" y="0" width="0" height="8" fill="#d2a8ff"/>
                         </svg>
                         <div class="followup legend field fill-width">
                             <div class="field">
@@ -243,7 +243,7 @@
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                     <path fill="#8957e5" fill-rule="evenodd" d="M5 3.254V3.25v.005a.75.75 0 110-.005v.004zm.45 1.9a2.25 2.25 0 10-1.95.218v5.256a2.25 2.25 0 101.5 0V7.123A5.735 5.735 0 009.25 9h1.378a2.251 2.251 0 100-1.5H9.25a4.25 4.25 0 01-3.8-2.346zM12.75 9a.75.75 0 100-1.5.75.75 0 000 1.5zm-8.5 4.5a.75.75 0 100-1.5.75.75 0 000 1.5z"/>
                                 </svg>
-                                <span class="no-wrap">2608 <small>merged</small></span>
+                                <span class="no-wrap">2611 <small>merged</small></span>
                             </div>
                             <div class="field">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -277,14 +277,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="266.76168888171617" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="266.76168888171617" y="0" width="126.8347161192986" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="393.5964050010148" y="0" width="44.46693662169861" height="8" fill="#00B4AB"/>
-                    <rect mask="url(#languages-bar)" x="438.0633416227134" y="0" width="10.462444706900726" height="8" fill="#563d7c"/>
-                    <rect mask="url(#languages-bar)" x="448.5257863296141" y="0" width="4.578268619928256" height="8" fill="#a91e50"/>
-                    <rect mask="url(#languages-bar)" x="453.1040549495424" y="0" width="2.461371244409559" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="455.56542619395196" y="0" width="2.3831967664082043" height="8" fill="#41b883"/>
-                    <rect mask="url(#languages-bar)" x="457.9486229603601" y="0" width="2.0513770396398643" height="8" fill="#dea584"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="266.7333761114676" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="266.7333761114676" y="0" width="126.88421181287623" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="393.61758792434387" y="0" width="44.45275155070737" height="8" fill="#00B4AB"/>
+                    <rect mask="url(#languages-bar)" x="438.0703394750512" y="0" width="10.459107159226328" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="448.5294466342775" y="0" width="4.5768081400678335" height="8" fill="#a91e50"/>
+                    <rect mask="url(#languages-bar)" x="453.10625477434536" y="0" width="2.4605860604393928" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="455.5668408347848" y="0" width="2.382436520304336" height="8" fill="#41b883"/>
+                    <rect mask="url(#languages-bar)" x="457.9492773550891" y="0" width="2.05072264491093" height="8" fill="#dea584"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -1656,16 +1656,59 @@
                             <section class="activity">
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 2 commits in
+                                        <span class="repo">rafiandria23/palm-code-test</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#edcffd8</div>
+                                        <div class="message">Merge pull request #34 from rafiandria23/dev
+
+fix(api/db): fix typo</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#d0bd2d9</div>
+                                        <div class="message">fix(api/db): fix typo</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M7.177 3.073L9.573.677A.25.25 0 0110 .854v4.792a.25.25 0 01-.427.177L7.177 3.427a.25.25 0 010-.354zM3.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122v5.256a2.251 2.251 0 11-1.5 0V5.372A2.25 2.25 0 011.5 3.25zM11 2.5h-1V4h1a1 1 0 011 1v5.628a2.251 2.251 0 101.5 0V5A2.5 2.5 0 0011 2.5zm1 10.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0zM3.75 12a.75.75 0 100 1.5.75.75 0 000-1.5z"/>
                                     </svg>
                                     <div class="content">
-                                        Opened
-                                        <span class="issue">#32 chore(api/db): add condition for when DB uses SSL</span>
+                                        Merged
+                                        <span class="issue">#34 fix(api/db): fix typo</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div> in <span class="repo">rafiandria23/palm-code-test</span></div>
-                                    <div>4 files changed <span class="code">++20 --0</span></div>
+                                    <div>1 file changed <span class="code">++1 --1</span></div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M7.177 3.073L9.573.677A.25.25 0 0110 .854v4.792a.25.25 0 01-.427.177L7.177 3.427a.25.25 0 010-.354zM3.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122v5.256a2.251 2.251 0 11-1.5 0V5.372A2.25 2.25 0 011.5 3.25zM11 2.5h-1V4h1a1 1 0 011 1v5.628a2.251 2.251 0 101.5 0V5A2.5 2.5 0 0011 2.5zm1 10.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0zM3.75 12a.75.75 0 100 1.5.75.75 0 000-1.5z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Opened
+                                        <span class="issue">#34 fix(api/db): fix typo</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div> in <span class="repo">rafiandria23/palm-code-test</span></div>
+                                    <div>1 file changed <span class="code">++1 --1</span></div>
                                 </div>
                             </section>
                         </div>
@@ -1683,8 +1726,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">dev</span></div>
                                     <div class="commit">
-                                        <div class="sha">#7a2901d</div>
-                                        <div class="message">chore(api/db): add condition for when DB uses SSL</div>
+                                        <div class="sha">#d0bd2d9</div>
+                                        <div class="message">fix(api/db): fix typo</div>
                                     </div>
                                 </div>
                             </section>
@@ -1703,69 +1746,14 @@
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#0b9a2e4</div>
-                                        <div class="message">Merge pull request #31 from rafiandria23/dev
+                                        <div class="sha">#1ab845b</div>
+                                        <div class="message">Merge pull request #32 from rafiandria23/dev
 
-chore(web): implement access token mocking</div>
+chore(api/db): add condition for when DB uses SSL</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#e2183e7</div>
-                                        <div class="message">chore(web): implement access token mocking</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M7.177 3.073L9.573.677A.25.25 0 0110 .854v4.792a.25.25 0 01-.427.177L7.177 3.427a.25.25 0 010-.354zM3.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122v5.256a2.251 2.251 0 11-1.5 0V5.372A2.25 2.25 0 011.5 3.25zM11 2.5h-1V4h1a1 1 0 011 1v5.628a2.251 2.251 0 101.5 0V5A2.5 2.5 0 0011 2.5zm1 10.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0zM3.75 12a.75.75 0 100 1.5.75.75 0 000-1.5z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Merged
-                                        <span class="issue">#31 chore(web): implement access token mocking</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div> in <span class="repo">rafiandria23/palm-code-test</span></div>
-                                    <div>16 files changed <span class="code">++172 --32</span></div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 2 commits in
-                                        <span class="repo">dokuin/web</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#e8d8b70</div>
-                                        <div class="message">Merge pull request #183 from dokuin/dependabot/npm_and_yarn/ejs-3.1.10
-
-chore(deps): bump ejs from 3.1.8 to 3.1.10</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#5b8fa50</div>
-                                        <div class="message">chore(deps): bump ejs from 3.1.8 to 3.1.10
-
-Bumps [ejs](https://github.com/mde/ejs) from 3.1.8 to 3.1.10.
-- [Release notes](https://github.com/mde/ejs/releases)
-- [Commits](https://github.com/mde/ejs/compare/v3.1.8...v3.1.10)
-
----
-updated-dependencies:
-- dependency-name: ejs
-  dependency-type: indirect
-...
-
-Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
+                                        <div class="sha">#7a2901d</div>
+                                        <div class="message">chore(api/db): add condition for when DB uses SSL</div>
                                     </div>
                                 </div>
                             </section>
@@ -1967,7 +1955,7 @@ Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="102.61 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="102.92 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g stroke-width="2" fill="none" fill-rule="evenodd">
@@ -1989,7 +1977,7 @@ Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
                                     <span class="prefix">Super</span>
                                     deployer
                                 </div>
-                                <div class="text">Repositories have been deployed 831 times</div>
+                                <div class="text">Repositories have been deployed 832 times</div>
                             </div>
                         </div>
                         <div class="achievement a largeable-width-half">
@@ -2099,7 +2087,7 @@ Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
                                 <div class="title">
                                     <span class="prefix">Super</span>
                                     developer
-                                    <span class="gh">ranked 625k out of 137m users</span>
+                                    <span class="gh">ranked 625k out of 136m users</span>
                                 </div>
                                 <div class="text">Published 53 public repositories</div>
                             </div>
@@ -2150,7 +2138,7 @@ Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="54.25 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="54.766666666666666 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g stroke-width="2" fill="none" fill-rule="evenodd">
@@ -2178,7 +2166,7 @@ Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
                                     <span class="prefix">Great</span>
                                     contributor
                                 </div>
-                                <div class="text">Opened 305 pull requests</div>
+                                <div class="text">Opened 306 pull requests</div>
                             </div>
                         </div>
                         <div class="achievement c largeable-width-half">
@@ -2291,7 +2279,7 @@ Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Influencer
-                                    <span class="gh">ranked 555k out of 137m users</span>
+                                    <span class="gh">ranked 555k out of 136m users</span>
                                 </div>
                                 <div class="text">Followed by 25 users</div>
                             </div>
