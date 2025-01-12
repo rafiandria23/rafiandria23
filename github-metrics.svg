@@ -2083,7 +2083,7 @@ TTD-747 fix: level badge assignment date in card component</div>
                                 <div class="title">
                                     <span class="prefix">Super</span>
                                     developer
-                                    <span class="gh">ranked 669k out of 152m users</span>
+                                    <span class="gh">ranked 669k out of 144m users</span>
                                 </div>
                                 <div class="text">Published 54 public repositories</div>
                             </div>
@@ -2275,7 +2275,7 @@ TTD-747 fix: level badge assignment date in card component</div>
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Influencer
-                                    <span class="gh">ranked 612k out of 152m users</span>
+                                    <span class="gh">ranked 612k out of 144m users</span>
                                 </div>
                                 <div class="text">Followed by 26 users</div>
                             </div>
@@ -2356,7 +2356,7 @@ TTD-747 fix: level badge assignment date in card component</div>
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 3.68m out of 233m repositories</span>
+                                    <span class="gh">ranked 3.68m out of 234m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 2 times</div>
                             </div>
@@ -2427,7 +2427,7 @@ TTD-747 fix: level badge assignment date in card component</div>
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 2.49m out of 233m repositories</span>
+                                    <span class="gh">ranked 2.49m out of 234m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 8 stars</div>
                             </div>
